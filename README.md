@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm Utpalika Acharya</h1>
 <h3 align="center">A passionate 3rd-year Computer Science undergraduate, software developer, and research enthusiast</h3>
@@ -35,4 +34,44 @@ Backend:        Nest.js | Express.js | Node.js
 Database:       MongoDB
 Tools:          Git | GitHub | PyTorch | Hugging Face | Librosa | DeepSpeech
 Core Subjects:  OOPs | OS | DBMS | Computer Networks | Compilers
+```
 
+---
+
+### 🚀 Projects
+
+- 💡 **[FlexiRide](https://github.com/UtpalikaAcharya/FlexiRide)** — A MERN-based ride-hailing app with real-time tracking and microservices architecture
+- ⚖️ **[LegalAerie](https://github.com/UtpalikaAcharya/GDSC_Project)** — Legal consultancy web app built with HTML and CSS for GDSC
+- ✅ **[Taskito](https://github.com/UtpalikaAcharya/task_management-first_project-)** — A task management app that helps you stay organized and productive
+
+---
+
+### 🔬 Experience
+
+- **Samsung PRISM Research Intern**  
+  *Dec 2024 - Ongoing*  
+  Working on signal processing for spoken language ID using:
+  - PyTorch-based TTS models like **Tacotron 2** and **FastSpeech**
+  - Feature extraction with **Librosa** and **PyDub**
+  - Cloud platforms for large-scale model training
+  - Multilingual NLP with Hugging Face Transformers
+
+---
+
+### 👩‍💼 Leadership & Achievements
+
+- 👩‍💻 **Team Leader** at Samsung PRISM — Leading a research team to push the boundaries in multilingual speech tech  
+- 🏆 Participated in hackathons like **GDSC**, **Hack The Flag**, and **DevFest**  
+- 🌍 Contributor to open-source via **SWOC** and **GSSOC**
+
+---
+
+### 📬 Let's Connect!
+If you'd like to collaborate on a project, have questions, or just want to say hi — feel free to reach out!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UtpalikaAcharya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+```
