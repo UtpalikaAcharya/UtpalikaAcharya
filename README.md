@@ -42,31 +42,6 @@
 
 ---
 
-### 🚀 Projects
-
-- 💡 **[FlexiRide](https://github.com/UtpalikaAcharya/FlexiRide)**  
-  A MERN-based ride-hailing app with real-time tracking and microservices architecture.
-
-- ⚖️ **[LegalAerie](https://github.com/UtpalikaAcharya/GDSC_Project)**  
-  Legal consultancy web app built with HTML and CSS for GDSC.
-
-- ✅ **[Taskito](https://github.com/UtpalikaAcharya/task_management-first_project-)**  
-  A task management app that helps you stay organized and productive.
-
----
-
-### 🔬 Experience
-
-- **Samsung PRISM Research Intern**  
-  *Dec 2024 - Present*  
-  Working on signal processing for spoken language identification using:
-  - PyTorch-based TTS models like **Tacotron 2** and **FastSpeech**
-  - Feature extraction with **Librosa** and **PyDub**
-  - Cloud platforms for large-scale model training
-  - Multilingual NLP with Hugging Face Transformers
-
----
-
 ### 👩‍💼 Leadership & Achievements
 
 - 👩‍💻 **Team Leader** at Samsung PRISM — Leading a research team in multilingual speech technology
@@ -85,13 +60,7 @@
 
 ---
 
-### 🎧 Currently Listening To
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
----
 
 ### 📬 Let's Connect!
 
