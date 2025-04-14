@@ -100,6 +100,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:utpalikaacharya5@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-b
+    <img alt="Email" src="https://img.shields.io/badge
 ::contentReference[oaicite:0]{index=0}
  
