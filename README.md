@@ -2,7 +2,7 @@
 <h3 align="center">🚀 3rd-Year Computer Science Undergraduate | 💻 Full-Stack Developer | 🔬 AI/ML Research Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology+and+Innovation;Let's+build+something+amazing+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=90EE90&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology+and+Innovation;Let's+build+something+amazing+💡" alt="Typing SVG" />
 </p>
 
 ---
