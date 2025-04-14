@@ -1,5 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Utpalika Acharya</h1>
 <h3 align="center">🚀 3rd-Year Computer Science Undergraduate | 💻 Full-Stack Developer | 🔬 AI/ML Research Enthusiast</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/utpalika-acharya-46a047259" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:utpalikaacharya5@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/UtpalikaAcharya" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=90EE90&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology+and+Innovation;Let's+build+something+amazing+💡" alt="Typing SVG" />
